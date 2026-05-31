@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Environment files
+activate_env.sh
+
+# VS Code configuration files
+.vscode
+
